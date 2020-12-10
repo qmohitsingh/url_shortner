@@ -5,7 +5,7 @@ Step to run the program :
 
 Apis:
 
-1. http://localhost:5000/url/getShortenedURL/asfd/https://youtube.com
+1. http://localhost:5000/url/getShortenedURL/clientId/https://youtube.com
 2. http://localhost:5000/url/getOriginalURL/http://shortner.com/3tiiQnw7T
 3. http://localhost:5000/url/getStatisticsUsage 
 
